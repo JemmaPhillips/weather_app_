@@ -7,7 +7,7 @@ function AppHeader(){
         <>
          <Header className="appHeader" textAlign="center"  as='h1'>
         </Header>
-        <img src={weatherbitLogo}></img> 
+        <img alt="" src={weatherbitLogo}></img> 
         <Divider></Divider>
         </>
     

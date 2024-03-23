@@ -60,7 +60,7 @@ const createRouter = function (collection) {
       });
   });
 
-  // DELETE - by id i.e one weather item 
+  // DELETE - by id i.e one weather item
   router.delete("/:id", (req, res) => {
     const id = req.params.id;
     collection
