@@ -23,13 +23,14 @@ Ensure you have MongoDB Community installed. I recommend using MongoDB Compass t
 
 # Main page
 
-![image](https://user-images.githubusercontent.com/72317734/117377129-7127e980-aeca-11eb-9561-0049063e5619.png)
+<img width="1022" alt="image" src="https://github.com/JemmaPhillips/weather_app_/assets/149424304/a157a6fc-0536-48fa-bc9a-6674e73f15fc">
+
 
 # Search Results
 
-![image](https://user-images.githubusercontent.com/72317734/117377162-869d1380-aeca-11eb-89d4-165e57eb85d2.png)
+<img width="941" alt="image" src="https://github.com/JemmaPhillips/weather_app_/assets/149424304/473f76f9-724a-4bba-bf10-219ede91d873">
 
-![image](https://user-images.githubusercontent.com/72317734/117377183-94529900-aeca-11eb-8416-c7ec37207bf9.png)
+<img width="1012" alt="image" src="https://github.com/JemmaPhillips/weather_app_/assets/149424304/a765f3f2-cc34-41e0-9a45-f05f12e2827f">
 
 
 # Areas for further development
