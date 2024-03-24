@@ -13,7 +13,7 @@ const createRouter = function (collection) {
       .catch((err) => {
         console.error(err);
         res.status(500).json({ status: 500, error: err });
-      });
+      });  
   });
 
   // SHOW BY ID
