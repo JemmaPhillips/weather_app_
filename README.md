@@ -10,6 +10,8 @@ Recent searches are saved to a MongoDB database and returned on the front end to
   - Node
   - MongoDB
   - Express
+  - Jest
+  - React Testing Library
   - LogoMakr: https://logomakr.com/
 
 # How to run the app
@@ -34,7 +36,7 @@ Ensure you have MongoDB Community installed. I recommend using MongoDB Compass t
 
 
 # Areas for further development
-  - Include unit, integration or perhaps even end to end tests using jest and/or cypress
+  - Extend unit testing and/or create integration and end to end tests using jest and/or cypress
   - Additional UX features - perhaps loading an image of the location via unsplash once that location has been searched
   - Perhaps provide the forecasting info for all searches in a dropdown menu
 
