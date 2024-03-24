@@ -4,6 +4,8 @@ Weatherly is a full-stack MERN app which provides current and forecasted weather
 
 Recent searches are saved to a MongoDB database and returned on the front end to the user. The API key is from a free account and will expire in 21 days but can be regenerated with a free account at `weatherbit.io`
 
+The app is tested on the server using jest and using react testing library on the client.
+
 # Tools used
   - ReactJS 
   - Semantic UI
